@@ -1,13 +1,5 @@
 ISO-matic 💿
 
-![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-
-![alt text](https://img.shields.io/badge/Python-3.x-blue.svg)
-
-
-![alt text](https://img.shields.io/badge/OS-Windows-blue.svg)
-
 ISO-matic is a user-friendly Python script designed to simplify the creation of ISO disk images from your files and folders on Windows. Leveraging the robust oscdimg.exe utility (part of the Windows ADK), ISO-matic provides an interactive command-line interface to effortlessly package your data into a standard ISO file.
 
 Say goodbye to complex command-line arguments and manual path handling! ISO-matic streamlines the process, making ISO creation quick and intuitive.
